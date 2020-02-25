@@ -1,0 +1,7 @@
+C:\Users\Profesori\source\repos\klaseIObjekti\klaseIObjekti\bin\Debug\klaseIObjekti.exe.config
+C:\Users\Profesori\source\repos\klaseIObjekti\klaseIObjekti\bin\Debug\klaseIObjekti.exe
+C:\Users\Profesori\source\repos\klaseIObjekti\klaseIObjekti\bin\Debug\klaseIObjekti.pdb
+C:\Users\Profesori\source\repos\klaseIObjekti\klaseIObjekti\obj\Debug\klaseIObjekti.csprojAssemblyReference.cache
+C:\Users\Profesori\source\repos\klaseIObjekti\klaseIObjekti\obj\Debug\klaseIObjekti.csproj.CoreCompileInputs.cache
+C:\Users\Profesori\source\repos\klaseIObjekti\klaseIObjekti\obj\Debug\klaseIObjekti.exe
+C:\Users\Profesori\source\repos\klaseIObjekti\klaseIObjekti\obj\Debug\klaseIObjekti.pdb
